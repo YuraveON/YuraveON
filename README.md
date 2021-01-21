@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yulio Ramadhan</h1>
 <h3 align="center">Just an ordinary person with unordinary dreams</h3>
 
-<p align="left"> <a href="https://twitter.com/yuraveon" target="blank"><img src="https://img.shields.io/twitter/follow/yuraveon?logo=twitter&style=for-the-badge" alt="yuraveon" /></a> </p>
+<p align="center"> <a href="https://twitter.com/yuraveon" target="blank"><img src="https://img.shields.io/twitter/follow/yuraveon?logo=twitter&style=for-the-badge" alt="yuraveon" /></a> </p>
 
 - 🌱 I’m currently learning **Offensive Security**
 
