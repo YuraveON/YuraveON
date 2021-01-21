@@ -9,6 +9,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Instalasi Hyperion Crypter 2.3.1 di Ubuntu](https://yuraveon.github.io/2020-12-30-instalasi-hyperion-crypter/)
+- [Eskalasi Privilege Lokal pada Linux Kernel 3.13.0 dengan Ngrok dan b374k Webshell](https://yuraveon.github.io/2020-12-17-eskalasi-privilege-lokal-cve-2015-1328/)
+- [The Beginning](https://yuraveon.github.io/2020-12-15-beginning/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
