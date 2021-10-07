@@ -9,10 +9,10 @@
 ### Blogs posts
 [![WebsiteUp](https://img.shields.io/website?&style=for-the-badge&down_message=offline&up_message=online&url=https%3A%2F%2Fyuraveon.github.io)](https://yuraveon.github.io)
 <!-- BLOG-POST-LIST:START -->
+- [[Write-Up] CVE-2021-22214 Gitlab SSRF di Website Lokal](https://yuraveon.github.io/2021-10-07-cve-2021-22214-gitLab-ssrf/)
 - [Metodologi Bug Bounty V3.0 by XSSRAT](https://yuraveon.github.io/2021-06-06-metodologi-bug-bounty-xssrat/)
 - [Google Dorking - Seni Dalam Mencari](https://yuraveon.github.io/2021-03-26-google-dorking-skill/)
 - [Instalasi Hyperion Crypter 2.3.1 di Ubuntu](https://yuraveon.github.io/2020-12-30-instalasi-hyperion-crypter/)
-- [Eskalasi Privilege Lokal pada Linux Kernel 3.13.0 dengan Ngrok dan b374k Webshell](https://yuraveon.github.io/2020-12-17-eskalasi-privilege-lokal-cve-2015-1328/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">What i know and learn:</h3>
